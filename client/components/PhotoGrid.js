@@ -1,7 +1,6 @@
 import React from 'react';
 
 
-
 class PhotoGrid extends React.Component {
 
 		render() {
